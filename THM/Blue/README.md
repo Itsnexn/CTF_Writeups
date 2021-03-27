@@ -166,12 +166,12 @@ then we use `https://crackstation.net/` to crack the password hash...
 ### TASKS
 What is the name of the non-default user?
 ```
-jon
+¯\_(ツ)_/¯
 ```
 
  Copy this password hash to a file and research how to crack it. What is the cracked password?
 ```
-alqfna22
+¯\_(ツ)_/¯
 ```
 
 ## Find flags!
